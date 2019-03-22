@@ -10,6 +10,9 @@ pip install -r requiremnts.txt
 ```
 
 ## Usage example
+Give the latitude and longitude as arguments.This point is taken as centre of area.
+```sh
 python test.py 22.4863915 88.3491751
+```
 
 
